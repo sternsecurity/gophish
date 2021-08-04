@@ -1,4 +1,4 @@
-module github.com/gophish/gophish
+module github.com/sternsecurity/gophish
 
 go 1.13
 
